@@ -12,7 +12,7 @@ export const projects = [
     description:"​Dark Torch Game was a project that i work on during uni, it is a 2D lateral action game. The core idea is using a torch to detect any ghost and traps on the map and reach the goal, while the player use the torch the battery of the torch will drop and when there's no more battery the torch will not light and need time to recharge back. Therefore the player need to use the torch wisely and remember to part of the map that have traps and ghost.",
     image: '/images/darktorchgame.png',
     tags: ['C++'],
-    visit: 'https://google.com',
+    visit: 'https://github.com/19Maaka/dark-torch-game',
     id: 1,
   },
 ];
