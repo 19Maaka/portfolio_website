@@ -9,7 +9,7 @@ const Header = () =>  (
     <Div1>
       <Link href="/">
         <a style={{ display: 'flex', alignItems: 'center', color:"white", marginBottom:'20px'}}>
-          <MdAccountCircle size="3rem" /> <Span>MaakaWong</Span>
+          <MdAccountCircle size="3rem" /> <Span>MaakaW</Span>
         </a>
       </Link>
     </Div1>
